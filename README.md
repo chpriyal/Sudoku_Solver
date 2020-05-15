@@ -3,11 +3,11 @@
 ## Summary
 Python script to solve Sudoku puzzles using backtracking
 
-##Requirements
+## Requirements
 - Python3
 - numpy
 
-##Instructions
+## Instructions
 1. Write your Sudoku puzzle in the sudoku file
 2. Run command python3 solve.py
 
