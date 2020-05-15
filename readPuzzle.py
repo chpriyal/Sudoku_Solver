@@ -15,6 +15,7 @@ def readPuzz():
 	print(question)
 	print("Press Y if the problem is correct. Press N to exit")
 	x = input()
-	if(x.lower!='y'):
+	
+	if(x.lower()!='y'):
 		return (question,False)
 	return (question,True)
